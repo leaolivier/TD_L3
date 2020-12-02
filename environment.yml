@@ -10,3 +10,4 @@ dependencies:
   - cartopy
   - netCDF4
   - seawater
+  - scipy
